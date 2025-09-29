@@ -4,6 +4,8 @@ description: Lecture slides on consciousness.
 file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/ce18f58143e20f73e21a0875b86db335_10_consciousness.pdf
 file_size: 583227
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

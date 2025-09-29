@@ -33,6 +33,7 @@
     "website": "24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007"
   },
   "course_title": "Topics in Philosophy of Mind: Perceptual Experience",
+  "hide_download": true,
   "course_description": "This course is a survey of recent philosophy of perception. The main topics discussed are the following: the transparency of perceptual experience, disjunctivism, the content of perceptual experience, perceptual consciousness, thought ownership and thought disorders (focussing on schizophrenia), introspection, and the perception of sound. Questions raised by these topics include \"In what way is imagination distinct from perception?\", \"Is there a perceptual relation?\", \"What is the view that perceptual experiences have representational content?\", \"In what way is introspection distinct from perception?\", \"What does the phenomenon of 'thought insertion' show about the ownership of thoughts?\", and \"What is a sound?\". We explore these topics through reading, writing, and presentations by the instructors and guests.\n",
   "department_numbers": [
     "24"
@@ -43,6 +44,7 @@
     "content": "25070d8d-eeba-7a04-3a29-c7dc695997fe",
     "website": "24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

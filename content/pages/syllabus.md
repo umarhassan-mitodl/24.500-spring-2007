@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   about prerequisites, required texts, grading, academic misconduct, recommended citation,
   and the schedule of lecture topics, visitors, and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -47,7 +49,7 @@ To put it bluntly, plagiarism is theft and fraud -- it is the theft of someone e
 3.  When you use information that might not be considered common knowledge, cite the source.
 4.  When in doubt about whether or not to give a citation, always give a citation.
 
-Additional Information: {{% resource_link "d66db45e-ac14-4517-942b-7581eb014cf3" "Citing and Using Sources" %}}
+Additional Information: [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
 
 \*This statement has been issued by the HASS Committee on Discipline.
 

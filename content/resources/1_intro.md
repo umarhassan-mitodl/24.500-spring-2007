@@ -5,6 +5,8 @@ description: Lecture slides with an introduction and discussion of background, m
 file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/1fc20bb94fecb2c3b3ffe9d68bbee64e_1_intro.pdf
 file_size: 197009
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

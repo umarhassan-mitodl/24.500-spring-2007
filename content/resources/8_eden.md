@@ -4,6 +4,8 @@ description: Lecture slides about thought insertion, perception, and fall from E
 file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/55bd453490af96524aa0b3b4939b6dcd_8_eden.pdf
 file_size: 1274266
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

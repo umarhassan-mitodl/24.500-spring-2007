@@ -4,6 +4,8 @@ description: Lecture slides on introspection.
 file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/fb60feedafcd2e487df12f33cc5e479c_11_schwitzgebel.pdf
 file_size: 856057
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

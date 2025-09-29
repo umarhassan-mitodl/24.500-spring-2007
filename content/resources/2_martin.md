@@ -4,6 +4,8 @@ description: Lecture slides about transparency.
 file: /courses/24-500-topics-in-philosophy-of-mind-perceptual-experience-spring-2007/87d352d4f2d39861bb63a8636ac3bb88_2_martin.pdf
 file_size: 632274
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
